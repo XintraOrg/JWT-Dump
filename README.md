@@ -56,3 +56,16 @@ Written by **@svch0st**
     sig                 : KXxmGM2YWfzZUh4MRTeFeP3Mh6b12/wGHgm5Fu7+hGoeGqYwhKEQ5OgdPXGgIuGhl4gI+yGaKuGp5uMR3WaHx4oAj3q9DC47kOCu5mEopJB7d11qRuOTjFP1bB+URfikGH6zaM03pbc==
     expiryDateTime      : 7/12/2024 3:33:18 PM
     timeToExpiry        : 20:15:47.1045929
+    
+    ---------------------- Summary ----------------------
+    Found 30 potential JWTs!
+    Audiences found:
+    00000003-0000-0000-c000-000000000000
+    d3590ed6-52b3-4102-aeff-aad2292ab01c
+    https://api.office.net
+    https://clients.config.office.net/
+    https://graph.microsoft.com/
+    https://messaging.lifecycle.office.com/*
+    https://neurathinkorg.sharepoint.com/
+    https://outlook.office365.com/
+    https://substrate.office.com
